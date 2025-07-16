@@ -1,4 +1,4 @@
-# Documentacion Api OL Backend.
+# Documentación Api OL Backend.
 Esta aplicación permite condensar la información de los comerciantes y establecimientos con el objetivo de apoyar los 
 procesos operativos esenciales de la agremiación nacional de comercio.
 
