@@ -10,6 +10,8 @@ Login:
 <img width="1314" height="605" alt="Captura de pantalla 2025-07-15 192032" src="https://github.com/user-attachments/assets/d6abd5fe-1c25-4e1c-979c-ae6986d97990" />
 <img width="1290" height="328" alt="Captura de pantalla 2025-07-15 192424" src="https://github.com/user-attachments/assets/dd84f6cf-baa1-49f5-86ea-70f4b9f17325" />
 
+Resto de Endpoint para los Crud de Comenrciantes.
+<img width="1343" height="654" alt="Captura de pantalla 2025-07-15 192836" src="https://github.com/user-attachments/assets/e1489e8f-5b3e-4040-ab1b-c9daa4e4f3d5" />
 
 
 
